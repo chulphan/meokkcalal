@@ -1,0 +1,1 @@
+["^ ","~$hello",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$meokkcalal.core","~:top-ns","^7","~:arities",["^ ","~i0",["^ ","~:ret","~:vector"]]],"~$-main",["^ ","^1",9,"^2",1,"~:varargs-min-arity",0,"^5","^<","^6","^7","^8","^7"],"~:filename","/Users/chulkim/project/MeokKcalAl/src/meokkcalal/core.cljs"]
